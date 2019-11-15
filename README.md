@@ -1,3 +1,4 @@
+[![Build Status](https://dev.azure.com/richardrowland/GetStarted/_apis/build/status/richardrowlandsb.pipelines-java?branchName=master)](https://dev.azure.com/richardrowland/GetStarted/_build/latest?definitionId=1&branchName=master)
 
 # Contributing
 
